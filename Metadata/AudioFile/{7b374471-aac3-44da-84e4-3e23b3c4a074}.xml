@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{7b374471-aac3-44da-84e4-3e23b3c4a074}">
+		<property name="assetPath">
+			<value>Speech/weird-alien-speech-67398.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>24</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>23.544</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{39a755bc-33be-47a7-a563-0a67055ef002}</destination>
+		</relationship>
+	</object>
+</objects>

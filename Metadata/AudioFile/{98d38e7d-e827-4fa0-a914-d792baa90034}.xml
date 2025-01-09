@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{98d38e7d-e827-4fa0-a914-d792baa90034}">
+		<property name="assetPath">
+			<value>Ambient/invader-glitch-210114.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>40.031999999999996</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{39a755bc-33be-47a7-a563-0a67055ef002}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{e1931333-759e-41f3-ad93-18c1d9fc5cf6}">
+		<property name="assetPath">
+			<value>Ambient/warped-interios-233364.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>36.024000000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{39a755bc-33be-47a7-a563-0a67055ef002}</destination>
+		</relationship>
+	</object>
+</objects>
